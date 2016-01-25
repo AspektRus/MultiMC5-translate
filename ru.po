@@ -2017,7 +2017,8 @@ msgstr "Папка конфигураций"
 #: src/application/MainWindow.cpp:361
 msgctxt "MainWindow|"
 msgid "Open the instance's config folder"
-msgstr "Открыть папку конфигураций сборок"
+
+msgid msgstr "Открыть папку конфигураций сборок"
 
 #: src/application/MainWindow.cpp:362
 msgctxt "MainWindow|"
@@ -4119,7 +4120,7 @@ msgstr "Копировать выбранную сборку."
 #, fuzzy
 msgctxt "VersionPage|"
 msgid "Customize"
-msgstr "пользовательский"
+msgstr "Настроить"
 
 #: src/application/pages/VersionPage.ui:130
 #, fuzzy
@@ -5057,7 +5058,8 @@ msgstr "..."
 #~ "size:8pt;\">    the terms and conditions of the license of that module.  "
 #~ "An independent</span></p>\n"
 #~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" fo
+#~ nt-"
 #~ "size:8pt;\">    module is a module which is not derived from or based on "
 #~ "this library.  If</span></p>\n"
 #~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
@@ -6279,7 +6281,8 @@ msgstr "..."
 #~ msgstr "Загрузка списка версий LWJGL..."
 
 #~ msgctxt "LegacyJarModPage|"
-#~ msgid "Install Forge"
+#~ msgid "Install Forg
+#~ msgstr e"
 #~ msgstr "Установить Forge"
 
 #~ msgctxt "LegacyJarModPage|"
