@@ -817,7 +817,7 @@ msgstr ""
 #, fuzzy, qt-format
 msgctxt "InstancePageProvider|"
 msgid "Edit Instance (%1)"
-msgstr "Редактировать сборку (% 1)"
+msgstr "Редактировать сборку (%1)"
 
 #: src/application/pages/InstanceSettingsPage.ui:60
 msgctxt "InstanceSettingsPage|"
@@ -2017,7 +2017,8 @@ msgstr "Папка конфигураций"
 #: src/application/MainWindow.cpp:361
 msgctxt "MainWindow|"
 msgid "Open the instance's config folder"
-msgstr "Открыть папку конфигураций сборок"
+
+msgid msgstr "Открыть папку конфигураций сборок"
 
 #: src/application/MainWindow.cpp:362
 msgctxt "MainWindow|"
@@ -2111,7 +2112,7 @@ msgstr "Изменить параметры, специфичные для сб�
 #, fuzzy
 msgctxt "MainWindow|"
 msgid "Export Instance"
-msgstr "Редактировать сборку"
+msgstr "Экспорт сборки"
 
 #: src/application/MainWindow.cpp:392
 #, qt-format
@@ -5057,7 +5058,8 @@ msgstr "..."
 #~ "size:8pt;\">    the terms and conditions of the license of that module.  "
 #~ "An independent</span></p>\n"
 #~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" fo
+#~ nt-"
 #~ "size:8pt;\">    module is a module which is not derived from or based on "
 #~ "this library.  If</span></p>\n"
 #~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
